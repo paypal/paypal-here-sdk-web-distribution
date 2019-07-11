@@ -1,5 +1,7 @@
 Introduction
 =================
+**PayPal Here Web SDK is currently in limited release beta**
+
 The PayPal Here SDK enables web based POS apps to process in-person credit card transactions using the [PayPal Chip Card Reader](https://us.paypal-here.com/paypal-chip-card-reader/) which is capable of accepting contactless, EMV, and swipe payment methods.
 
 Developers should use the PayPal Here SDK to get world-class payment processing with one simple integration.  Some of the main benefits include
