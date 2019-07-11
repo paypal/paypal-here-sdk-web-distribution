@@ -22,6 +22,8 @@ Installation
 Similar to any other JS integration, you simply need to include a script tag on your site.  The tag you need to include is:
 `<script src="https://www.paypalobjects.com/digitalassets/c/pph/content/retailsdk/js/pphwebsdk.min.js"></script>`
 
+All API’s are under the `pphwebsdk` namespace.
+
 Please note that this is the initial link for the limited beta release and, once it's generally available, there will be versioning added to the link that would need to be modified to use the latest version.
 
 
