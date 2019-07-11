@@ -19,7 +19,7 @@ Supporting Materials
 
 Installation
 ==============
-Similar to any other JS integration, you simply need to include a script tag on your site.  The tag you need to include is:
+Similar to any other JS integration, you simply need to include a script tag on your site.  Include the following script as part of your 'Payment' and 'Setup' page to integrate with the PPH Web SDK:
 `<script src="https://www.paypalobjects.com/digitalassets/c/pph/content/retailsdk/js/pphwebsdk.min.js"></script>`
 
 All API’s are under the `pphwebsdk` namespace.
