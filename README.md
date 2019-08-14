@@ -27,7 +27,6 @@ All API’s are under the `pphwebsdk` namespace.
 
 Please note that this is the initial link for the limited beta release and, once it's generally available, there will be versioning added to the link that would need to be modified to use the latest version.
 
-Sample App **coming soon**.
 
 Housekeeping Items
 =====================
