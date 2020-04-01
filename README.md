@@ -34,7 +34,7 @@ This log file will be useful in troubleshooting any integration issues and/or an
 
 Housekeeping Items
 =====================
-There are a few noteworth items that should be called out. These include:
+There are a few noteworthy items that should be called out. These include:
 * This SDK is available for the US region only.
 * This SDK will only work on Windows 10 desktop/laptop browsers.  Phone/Tablet browsers are not supported.
 * The latest versions of Firefox and Chrome are supported but if you use IE then please note only IE 11 is supported.
