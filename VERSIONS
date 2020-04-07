@@ -1,2 +1,11 @@
+These are the version numbers of the PayPalHere SDK and
+what is new in this release.
+
+1.0.0
+  Introducing:
+  - PPH SDK support for browsers on Windows 10 systems
+  - Chip Card Reader support via browsers
+  - Chip and Tap Reader support via browsers
+
 Limited Beta
   - Initial beta release of PPH Web SDK
