@@ -20,8 +20,9 @@ Installation
 ==============
 As with our iOS/Android SDKs, there are debug and release versions of the SDK. The debug version contains extra logging and should only be used for development. You will utilize the release version once you're ready for your site to be live. Similar to any other JS integration, you simply need to include a script tag on your site. Include the following script as part of your 'Payment' and 'Setup' page to integrate with the PPH Web SDK:
 
-Release: `<script src="https://www.paypalobjects.com/pph/websdk/js/pphwebsdk-1.0.0.min.js"></script>`
-Debug: `<script src="https://www.paypalobjects.com/pph/websdk/js/pphwebsdk-1.0.0-debug.min.js"></script>`
+Release: `<script src="https://www.paypalobjects.com/pph/websdk/js/pphwebsdk-1.1.1.min.js"></script>`
+
+Debug: `<script src="https://www.paypalobjects.com/pph/websdk/js/pphwebsdk-1.1.1-debug.min.js"></script>`
 
 All APIs are under the `pphwebsdk` namespace.
 
