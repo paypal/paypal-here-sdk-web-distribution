@@ -39,7 +39,7 @@ There are a few noteworthy items that should be called out. These include:
 * This SDK is available for the US region only.
 * This SDK will only work on Windows 10 desktop/laptop browsers.  Phone/Tablet browsers are not supported.
 * The latest versions of Firefox and Chrome are supported but if you use IE then please note only IE 11 is supported.
-* The card readers that are supported with this SDK are the [Chip Card Reader](https://www.paypal.com/us/webapps/mpp/credit-card-reader-how-to/chip-card-reader) and the [Chip and Tap Reader](https://www.paypal.com/us/webapps/mpp/credit-card-reader-how-to/chip-and-tap-reader). You can order the Chip Card Reader from our [web store](https://us.paypal-here.com/card-readers/) as normal but the Chip and Tap readers need manual configuration to allow the USB connection. Therefore, if you would like to order Chip and Tap readers, please send an email to [DL-PayPal-bizop@paypal.com](mailto:DL-PayPal-bizop@paypal.com).
+* The card readers that are supported with this SDK are the [Chip Card Reader](https://www.paypal.com/us/webapps/mpp/credit-card-reader-how-to/chip-card-reader), the [Chip and Tap Reader](https://www.paypal.com/us/webapps/mpp/credit-card-reader-how-to/chip-and-tap-reader), and the Verifone P400 reader. You can order the Chip Card Reader from our [web store](https://us.paypal-here.com/card-readers/) as normal but the Chip and Tap readers and P400 readers need manual configuration to allow the USB connection. Therefore, if you would like to order Chip and Tap readers or Verifone P400 readers, please send an email to [DL-PayPal-bizop@paypal.com](mailto:DL-PayPal-bizop@paypal.com).
 
 
 [License](LICENSE.md)
