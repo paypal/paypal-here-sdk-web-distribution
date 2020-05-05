@@ -2,9 +2,9 @@ These are the version numbers of the PayPalHere SDK and
 what is new in this release.
 
 1.1.1
-  - Support verifone readers
-  - Payment.subscribe now returns events as functions
-  - Setup.startUIFlow now accepts reader object and returns a promise
+  - Feat: Support verifone readers
+  - Fix: Payment.subscribe now returns events as functions
+  - Fix: Setup.startUIFlow now accepts reader object and returns a promise
 
 1.0.0
   Introducing:
