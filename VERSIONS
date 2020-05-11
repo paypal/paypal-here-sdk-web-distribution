@@ -3,6 +3,8 @@ what is new in this release.
 
 1.1.3
   - Feat: Payment.requestCancellation added, throws events actionSuccess/actionFailure
+    - onPaymentFailure will fire for cancellation success
+    - onPaymentSuccess will fire for cancellation failure
 
 1.1.1
   - Feat: Support verifone readers
