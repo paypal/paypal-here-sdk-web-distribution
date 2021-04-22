@@ -8,7 +8,9 @@ what is new in this release.
   - Feat: display system information on mediator app UI
   - Renew certificates (important update: older certificates will be rejected by browsers)
 
---------------------------------- Below versions have expired certificates ----------------------
+------------------------------------------------------------------
+              Below versions have expired certificates 
+------------------------------------------------------------------
 1.1.12
   - Fix(verifone): assemble partial response packets 
 
