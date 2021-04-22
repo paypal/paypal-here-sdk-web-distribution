@@ -1,9 +1,14 @@
 These are the version numbers of the PayPalHere SDK and
 what is new in this release.
 
+1.1.14
+  - Fix: Card object added back to record returned in onPaymentSuccess
+
 1.1.13
   - Feat: display system information on mediator app UI
+  - Renew certificates (important update: older certificates will be rejected by browsers)
 
+--------------------------------- Below versions have expired certificates ----------------------
 1.1.12
   - Fix(verifone): assemble partial response packets 
 
