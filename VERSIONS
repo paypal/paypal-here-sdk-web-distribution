@@ -1,13 +1,19 @@
 These are the version numbers of the PayPalHere SDK and
 what is new in this release.
 
-1.1.15
+1.1.16
+  - Fix: Renew certificates for 2022 (older certificates will be rejected by browser starting March 2022)
+  - Fix: Request ordering on Verifone readers
+  - Fix: add listener once to 'did-finish-load' event
+  - Fix: single instance lock
+
+1.1.15 [Cert expires in March 2022]
   - Feat: return error when card removed before calling continueWithCard in cardPresented event
 
-1.1.14
+1.1.14 [Cert expires in March 2022]
   - Fix: Card object added back to record returned in onPaymentSuccess
 
-1.1.13
+1.1.13 [Cert expires in March 2022]
   - Feat: display system information on mediator app UI
   - Renew certificates (important update: older certificates will be rejected by browsers)
 
