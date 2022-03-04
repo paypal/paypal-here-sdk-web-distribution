@@ -1,6 +1,30 @@
 These are the version numbers of the PayPalHere SDK and
 what is new in this release.
 
+1.2.0
+  - Feat: Ongoing transaction cancellation
+  - feat(pre req): check loggly and mParticle reachability
+  - Fix: PayPalErrorFactory to get JS errors on native
+  - Fix: Timeout reader commands, logging, battery poll optimization, cardRemovedBeforeRead error
+  - Fix(Chip & Tap/Swipe): Get Battery status on connection
+  - Fix(Auth-Capture): Gratuity is added to invoice total
+  - Fix(Chip-Pin): Granular errors for card data parsing
+  - Fix(PaymentErrorHandler): Error handling for network and declined cases
+  - Fix: Receipt flow
+  - Fix(Chip and tap/swipe): UI Handling of the see phone error 
+  - Fix: Show payment retry alerts after reader deactivation
+  - Fix(Chip and Swipe): reader hanging after chip card is swiped
+  - Refactor: Reader battery poll
+  - Fix(Chip and tap/sig): Command ordering and response matching improvements
+  - Fix(Chip and pin): Error handling during firmware update
+  - Fix: Card reader battery status and connection
+  - Fix: Logging improvements
+  - Fix: ApplePay unknown card issuer
+  - fix(Chip and tap/sig): invalid card data error behaviour
+  - fix(Chip and tap/sig/pin): forceDisconnect on native initiated disconnects
+  - Fix: Abort payment completion on errors during active request
+  - Fix(Chip & Swipe/Tap): Cancel transaction while card is inserted
+
 1.1.16
   - Fix: Renew certificates for 2022 (older certificates will be rejected by browser starting March 2022)
   - Fix: Request ordering on Verifone readers
