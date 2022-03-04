@@ -14,7 +14,6 @@ what is new in this release.
   - Fix(Chip and tap/swipe): UI Handling of the see phone error 
   - Fix: Show payment retry alerts after reader deactivation
   - Fix(Chip and Swipe): reader hanging after chip card is swiped
-  - Refactor: Reader battery poll
   - Fix(Chip and tap/sig): Command ordering and response matching improvements
   - Fix(Chip and pin): Error handling during firmware update
   - Fix: Card reader battery status and connection
