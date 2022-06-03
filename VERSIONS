@@ -1,6 +1,10 @@
 These are the version numbers of the PayPalHere SDK and
 what is new in this release.
 
+1.2.1
+  - Fix: Update logging and instrumentation endpoints for pre-check
+  - Fix: Configurable log levels
+
 1.2.0
   - Feat: Ongoing transaction cancellation
   - feat(pre req): check loggly and mParticle reachability
